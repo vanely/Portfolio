@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import '../css/Nav.css';
-import '../css/Home.css';
-import '../css/Contact.css';
-import '../css/Projects.css';
+import '../components/Nav/Nav.css';
+import '..../components/Home/Home.css';
+import '..../components/Contact/Contact.css';
+import '..../components/Projects/Projects.css';
 import Nav from '../components/Nav/Nav.js';
 import Home from '../components/Home/Home.js';
 import Projects from '../components/Projects/Projects.js';
